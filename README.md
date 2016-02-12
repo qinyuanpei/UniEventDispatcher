@@ -1,0 +1,2 @@
+# UniEventDispatcher
+一个基于委托实现的Unity事件分发器，可以代替SendMessage使用
